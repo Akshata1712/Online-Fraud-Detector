@@ -1,0 +1,13 @@
+# dependencies
+node_modules/
+frontend/node_modules/
+backend/fraudenv/
+__pycache__/
+*.pyc
+
+# logs
+*.log
+
+# system files
+.DS_Store
+/backend/dataset.csv
