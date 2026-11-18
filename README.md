@@ -1,4 +1,4 @@
-# FraudSight — Online Fraud Detection Dashboard
+# FraudSight : Online Fraud Detection Dashboard
 
 A modern, interactive fraud detection dashboard that uses machine learning to predict transaction fraud probabilities in real time and in batches. It integrates a clean **React + Tailwind** frontend with a **FastAPI backend** powered by an **XGBoost model**, with transaction-level explainability.
 
